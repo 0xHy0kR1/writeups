@@ -1,0 +1,1 @@
+![[startup7.png]]

@@ -1,0 +1,1 @@
+![[lazyadmin4.png]]

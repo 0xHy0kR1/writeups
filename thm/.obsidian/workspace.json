@@ -1,0 +1,197 @@
+{
+  "main": {
+    "id": "4606d85452c2ca61",
+    "type": "split",
+    "children": [
+      {
+        "id": "b1e2aa385fe9b4ca",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cc2d4943cce6e597",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "easy/archangel/exploitation/lfi_reverse_shell_to_root_own.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "90a4c979e306e528",
+    "type": "split",
+    "children": [
+      {
+        "id": "d4ad74e141e221e6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5a9bb46299b4b816",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0bd96eb7fd74f1db",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "af2c0895ccf59f9a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e245e0a9f7f3a967",
+    "type": "split",
+    "children": [
+      {
+        "id": "74aab1a3e0e58f82",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d86e626ce5a59c65",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "easy/archangel/exploitation/lfi_reverse_shell_to_root_own.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "19af0951089a0c73",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "easy/archangel/exploitation/lfi_reverse_shell_to_root_own.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "00423ccc88f12c9a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "ca233b01764a7f0f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "easy/archangel/exploitation/lfi_reverse_shell_to_root_own.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "cc2d4943cce6e597",
+  "lastOpenFiles": [
+    "easy/archangel/exploitation/user.txt_by_lfi.md",
+    "easy/archangel/images/archangel_privesc.png",
+    "easy/startup/enumeration/nmap/nmap_scan.md",
+    "easy/startup/enumeration/nmap/ftp(21).md",
+    "easy/startup/enumeration/nmap/SSH(22).md",
+    "easy/startup/images/startup9.png",
+    "easy/startup/images/startup8.png",
+    "easy/startup/images/startup7.png",
+    "easy/startup/images/startup6.png",
+    "easy/startup/images/startup5.png",
+    "easy/startup/images/startup4.png",
+    "easy/startup/images/startup3.png",
+    "easy/startup/images/startup2.png",
+    "easy/startup/images/startup15.png",
+    "easy/startup/findings/hidden_web_pages.md",
+    "easy/startup/exploitation/user_own_using_php_revershell.md",
+    "easy/startup/exploitation/root_own_using_cron_jobs.md",
+    "easy/startup/enumeration/nmap",
+    "easy/startup/enumeration/dir_list_by_gobuster.md",
+    "easy/startup/suspicious.pcapng.1",
+    "easy/startup/suspicious.pcapng",
+    "easy/startup/php-reverse-shell.php",
+    "easy/startup/notice.txt",
+    "easy/startup/images",
+    "easy/startup/findings",
+    "easy/startup/exploitation",
+    "easy/startup/enumeration",
+    "easy/startup",
+    "archangel/exploitation/lfi_reverse_shell_to_root_own.md",
+    "easy/AgentSudo/enumeration/nmap/nmap_scan.md",
+    "easy/AgentSudo/enumeration/nmap/SSH(22).md",
+    "easy/AgentSudo/enumeration/nmap/FTP(21).md",
+    "easy/AgentSudo/reports/notes.txt.md",
+    "easy/AgentSudo/findings/web_pages.md",
+    "easy/AgentSudo/findings/ftp_findings.md",
+    "easy/AgentSudo/exploitation/CVE-2019-14287.md",
+    "easy/anthem/enumeration/nmap/nmap_scan.md",
+    "easy/anthem/enumeration/nmap/RDP(3389).md",
+    "easy/anthem/enumeration/nmap/HTTP(80).md",
+    "easy/anthem/findings/hidden_web_pages.md",
+    "easy/anthem/enumeration/dir_list_gobuster.md",
+    "easy/archangel/enumeration/nmap/nmap_scan.md",
+    "easy/archangel/findings/hidden_and_default_web_pages.md",
+    "easy/archangel/exploitation/lfi_reverse_shell_to_root_own.md",
+    "easy/archangel/enumeration/dir_list_by_gobuster.md"
+  ]
+}
