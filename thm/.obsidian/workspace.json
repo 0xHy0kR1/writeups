@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "easy/archangel/exploitation/lfi_reverse_shell_to_root_own.md",
+                "file": "easy/kiba/findings/hidden_web_pages.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7abe387ab7c2c7fc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "easy/kiba/exploitation/root_own_with_python_capabilities.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "easy/archangel/exploitation/lfi_reverse_shell_to_root_own.md",
+                "file": "easy/kiba/exploitation/root_own_with_python_capabilities.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "easy/archangel/exploitation/lfi_reverse_shell_to_root_own.md",
+                "file": "easy/kiba/exploitation/root_own_with_python_capabilities.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "easy/archangel/exploitation/lfi_reverse_shell_to_root_own.md"
+                "file": "easy/kiba/exploitation/root_own_with_python_capabilities.md"
               }
             }
           }
@@ -146,22 +159,35 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cc2d4943cce6e597",
+  "active": "7abe387ab7c2c7fc",
   "lastOpenFiles": [
+    "easy/kiba/images/kiba9.png",
+    "easy/kiba/images/kiba8.png",
+    "easy/kiba/exploitation/user_own_with_RCE_on_kibana.md",
+    "easy/kiba/exploitation/root_own_with_python_capabilities.md",
+    "easy/kiba/images/kiba7.png",
+    "easy/kiba/enumeration/nmap/nmap_scan.md",
+    "easy/kiba/findings/hidden_web_pages.md",
+    "easy/kiba/images/kiba6.png",
+    "easy/kiba/images/kiba5.png",
+    "easy/kiba/images/kiba4.png",
+    "easy/kiba/enumeration/nmap/esmagent(5601).md",
+    "easy/kiba/images/kiba3.png",
+    "easy/kiba/images/kiba2.png",
+    "easy/kiba/CVE-2019-7609-kibana-rce.py",
+    "easy/kiba/CVE-2019-7609/lab.md",
+    "easy/kiba/CVE-2019-7609/Readme.md",
+    "easy/kiba/CVE-2019-7609",
+    "easy/kiba/47971.txt",
+    "easy/kiba/images/kiba1.png",
+    "easy/archangel/exploitation/lfi_reverse_shell_to_root_own.md",
+    "easy/kiba/enumeration/nmap/Untitled",
     "easy/archangel/exploitation/user.txt_by_lfi.md",
     "easy/archangel/images/archangel_privesc.png",
     "easy/startup/enumeration/nmap/nmap_scan.md",
     "easy/startup/enumeration/nmap/ftp(21).md",
     "easy/startup/enumeration/nmap/SSH(22).md",
     "easy/startup/images/startup9.png",
-    "easy/startup/images/startup8.png",
-    "easy/startup/images/startup7.png",
-    "easy/startup/images/startup6.png",
-    "easy/startup/images/startup5.png",
-    "easy/startup/images/startup4.png",
-    "easy/startup/images/startup3.png",
-    "easy/startup/images/startup2.png",
-    "easy/startup/images/startup15.png",
     "easy/startup/findings/hidden_web_pages.md",
     "easy/startup/exploitation/user_own_using_php_revershell.md",
     "easy/startup/exploitation/root_own_using_cron_jobs.md",
@@ -172,10 +198,6 @@
     "easy/startup/php-reverse-shell.php",
     "easy/startup/notice.txt",
     "easy/startup/images",
-    "easy/startup/findings",
-    "easy/startup/exploitation",
-    "easy/startup/enumeration",
-    "easy/startup",
     "archangel/exploitation/lfi_reverse_shell_to_root_own.md",
     "easy/AgentSudo/enumeration/nmap/nmap_scan.md",
     "easy/AgentSudo/enumeration/nmap/SSH(22).md",
@@ -184,14 +206,6 @@
     "easy/AgentSudo/findings/web_pages.md",
     "easy/AgentSudo/findings/ftp_findings.md",
     "easy/AgentSudo/exploitation/CVE-2019-14287.md",
-    "easy/anthem/enumeration/nmap/nmap_scan.md",
-    "easy/anthem/enumeration/nmap/RDP(3389).md",
-    "easy/anthem/enumeration/nmap/HTTP(80).md",
-    "easy/anthem/findings/hidden_web_pages.md",
-    "easy/anthem/enumeration/dir_list_gobuster.md",
-    "easy/archangel/enumeration/nmap/nmap_scan.md",
-    "easy/archangel/findings/hidden_and_default_web_pages.md",
-    "easy/archangel/exploitation/lfi_reverse_shell_to_root_own.md",
-    "easy/archangel/enumeration/dir_list_by_gobuster.md"
+    "easy/anthem/enumeration/nmap/nmap_scan.md"
   ]
 }
