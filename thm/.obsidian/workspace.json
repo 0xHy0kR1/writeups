@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "easy/kiba/exploitation/root_own_with_python_capabilities.md",
+                "file": "easy/gallery/exploitation/user_own_by_simple_gallery_RCE.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "easy/kiba/exploitation/root_own_with_python_capabilities.md",
+                "file": "easy/gallery/exploitation/user_own_by_simple_gallery_RCE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "easy/kiba/exploitation/root_own_with_python_capabilities.md",
+                "file": "easy/gallery/exploitation/user_own_by_simple_gallery_RCE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "easy/kiba/exploitation/root_own_with_python_capabilities.md"
+                "file": "easy/gallery/exploitation/user_own_by_simple_gallery_RCE.md"
               }
             }
           }
@@ -161,51 +161,51 @@
   },
   "active": "7abe387ab7c2c7fc",
   "lastOpenFiles": [
-    "easy/kiba/images/kiba9.png",
-    "easy/kiba/images/kiba8.png",
-    "easy/kiba/exploitation/user_own_with_RCE_on_kibana.md",
+    "easy/gallery/images/gallery17.png",
+    "easy/gallery/images/gallery16.png",
+    "easy/gallery/exploitation/root_own_by_misconfigured_binary.md",
+    "easy/gallery/images/gallery15.png",
+    "easy/gallery/images/gallery14.png",
+    "easy/gallery/images/gallery13.png",
+    "easy/gallery/images/gallery12.png",
+    "easy/gallery/exploitation/user_own_by_simple_gallery_RCE.md",
+    "easy/gallery/images/gallery11.png",
+    "easy/gallery/images/gallery10.png",
+    "easy/gallery/findings/web_pages.md",
+    "easy/gallery/enumeration/nmap/nmap_scan.md",
+    "easy/gallery/images/gallery9.png",
+    "easy/gallery/linpeas.sh",
+    "easy/gallery/images/gallery8.png",
+    "easy/gallery/images/gallery7.png",
+    "easy/gallery/50214.py",
+    "easy/gallery/50198.txt",
+    "easy/gallery/enumeration/dir_list_by_gobuster.md",
+    "easy/gallery/php-reverse-shell.php",
     "easy/kiba/exploitation/root_own_with_python_capabilities.md",
-    "easy/kiba/images/kiba7.png",
+    "easy/gallery/enumeration/nmap",
+    "easy/gallery/images",
+    "easy/gallery/findings",
+    "easy/gallery/exploitation",
+    "easy/gallery/enumeration",
+    "easy/gallery",
+    "easy/kiba/exploitation/user_own_with_RCE_on_kibana.md",
     "easy/kiba/enumeration/nmap/nmap_scan.md",
     "easy/kiba/findings/hidden_web_pages.md",
-    "easy/kiba/images/kiba6.png",
-    "easy/kiba/images/kiba5.png",
-    "easy/kiba/images/kiba4.png",
     "easy/kiba/enumeration/nmap/esmagent(5601).md",
-    "easy/kiba/images/kiba3.png",
-    "easy/kiba/images/kiba2.png",
-    "easy/kiba/CVE-2019-7609-kibana-rce.py",
     "easy/kiba/CVE-2019-7609/lab.md",
     "easy/kiba/CVE-2019-7609/Readme.md",
-    "easy/kiba/CVE-2019-7609",
-    "easy/kiba/47971.txt",
-    "easy/kiba/images/kiba1.png",
     "easy/archangel/exploitation/lfi_reverse_shell_to_root_own.md",
-    "easy/kiba/enumeration/nmap/Untitled",
     "easy/archangel/exploitation/user.txt_by_lfi.md",
-    "easy/archangel/images/archangel_privesc.png",
     "easy/startup/enumeration/nmap/nmap_scan.md",
     "easy/startup/enumeration/nmap/ftp(21).md",
     "easy/startup/enumeration/nmap/SSH(22).md",
-    "easy/startup/images/startup9.png",
     "easy/startup/findings/hidden_web_pages.md",
     "easy/startup/exploitation/user_own_using_php_revershell.md",
     "easy/startup/exploitation/root_own_using_cron_jobs.md",
-    "easy/startup/enumeration/nmap",
     "easy/startup/enumeration/dir_list_by_gobuster.md",
-    "easy/startup/suspicious.pcapng.1",
-    "easy/startup/suspicious.pcapng",
-    "easy/startup/php-reverse-shell.php",
-    "easy/startup/notice.txt",
-    "easy/startup/images",
     "archangel/exploitation/lfi_reverse_shell_to_root_own.md",
     "easy/AgentSudo/enumeration/nmap/nmap_scan.md",
     "easy/AgentSudo/enumeration/nmap/SSH(22).md",
-    "easy/AgentSudo/enumeration/nmap/FTP(21).md",
-    "easy/AgentSudo/reports/notes.txt.md",
-    "easy/AgentSudo/findings/web_pages.md",
-    "easy/AgentSudo/findings/ftp_findings.md",
-    "easy/AgentSudo/exploitation/CVE-2019-14287.md",
-    "easy/anthem/enumeration/nmap/nmap_scan.md"
+    "easy/AgentSudo/enumeration/nmap/FTP(21).md"
   ]
 }
