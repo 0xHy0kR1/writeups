@@ -11,8 +11,12 @@
             "id": "b149638c7bb20494",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "thm/easy/ninjaSkills/enumeration/tasks.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "thm/easy/ninjaSkills/enumeration/tasks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "thm/easy/ninjaSkills/enumeration/tasks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,19 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "thm/easy/ninjaSkills/enumeration/tasks.md"
+              }
+            }
+          },
+          {
+            "id": "9e1744275843ae86",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
             }
           }
         ]
@@ -139,5 +157,33 @@
     }
   },
   "active": "b149638c7bb20494",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "thm/easy/ninjaSkills/images/ninjaskills5.png",
+    "thm/easy/ninjaSkills/images/ninjaskills4.png",
+    "thm/easy/ninjaSkills/images/ninjaskills3.png",
+    "thm/easy/ninjaSkills/images/ninjaskills2.png",
+    "thm/easy/ninjaSkills/images/ninjaskills1.png",
+    "thm/easy/toolsrus/exploitation/root_own_by_Upload_Code_Execution.md",
+    "thm/easy/ninjaSkills/enumeration/tasks.md",
+    "thm/easy/ninjaSkills/findings",
+    "thm/easy/ninjaSkills/images",
+    "thm/easy/ninjaSkills/exploitation",
+    "thm/easy/ninjaSkills/enumeration",
+    "thm/easy/ninjaSkills",
+    "thm/easy/ninjaSkill",
+    "thm/easy/toolsrus/images/toolsrus7.png",
+    "thm/easy/toolsrus/enumeration/nmap/nmap_scan.md",
+    "thm/easy/toolsrus/findings/web_pages.md",
+    "thm/easy/toolsrus/images/toolsrus6.png",
+    "thm/easy/toolsrus/images/toolsrus5.png",
+    "thm/easy/toolsrus/images/toolsrus4.png",
+    "thm/easy/toolsrus/images/toolsrus3.png",
+    "thm/easy/toolsrus/enumeration/dir_list_by_gobuster.md",
+    "thm/easy/toolsrus/hydra.restore",
+    "thm/easy/toolsrus/images/toolsrus2.png",
+    "thm/easy/toolsrus.md",
+    "thm/easy/toolsrus/enumeration/nmap",
+    "thm/easy/toolsrus/findings",
+    "thm/easy/toolsrus/images"
+  ]
 }
